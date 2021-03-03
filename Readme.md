@@ -1,7 +1,7 @@
 #### Backend task:
 * Implement the SignalR Hub, make it work with the frontend
 * Hub “ChatHub” is provided, implement your hub logic in there
-* Add docker support to the project, both frontend and backend should be contained in 1 signal container
+* Add docker support to the project, both frontend and backend should be contained in 1 single container
 #### Frontend task:
 * Rebuild your project by using yarn
 * Read the package.json for run and build the project
